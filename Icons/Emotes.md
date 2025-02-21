@@ -1,5 +1,12 @@
 # Emotes
 
+## Information
+
+- **Directory**: `emotes/`.
+- **Description**: icons for text chat emotions (e.g., :-) or :-P).
+
+## Icons
+
 | Identifier       |
 | ---------------- |
 | emote-love       |

@@ -1,5 +1,12 @@
 # MimeTypes
 
+## Information
+
+- **Directory**: `mimetypes/`.
+- **Description**: icons for file types (e.g., audio, image files).
+
+## Icons
+
 | Identifier                                                                |
 | ------------------------------------------------------------------------- |
 | android-package-archive                                                   |

@@ -1,5 +1,12 @@
 # Stock
 
+## Information
+
+- **Directory**: `stock/`.
+- **Description**: standard icons for common actions (e.g., save, open, edit).
+
+## Icons
+
 | Identifier       |
 | ---------------- |
 | gtk-apply        |

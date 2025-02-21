@@ -1,5 +1,12 @@
 # Notifications
 
+## Information
+
+- **Directory**: `notifications/`.
+- **Description**: icons for system and application notifications.
+
+## Icons
+
 | Identifier                                 |
 | ------------------------------------------ |
 | notification-audio-volume-high             |

@@ -1,5 +1,12 @@
 # Actions
 
+## Information
+
+- **Directory**: `actions/`.
+- **Description**: icons for menu and dialog interactions.
+
+## Icons
+
 | Identifier                                        |
 | ------------------------------------------------- |
 | accept_signal                                     |

@@ -1,5 +1,12 @@
 # Status
 
+## Information
+
+- **Directory**: `status/`.
+- **Description**: icons for status indicators (e.g., warnings, errors, weather, battery).
+
+## Icons
+
 | Identifier                                 |
 | ------------------------------------------ |
 | ac-adapter-symbolic                        |

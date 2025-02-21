@@ -1,5 +1,12 @@
 # Devices
 
+## Information
+
+- **Directory**: `devices/`.
+- **Description**: icons for hardware and connected devices.
+
+## Icons
+
 | Identifier                         |
 | ---------------------------------- |
 | ac-adapter                         |

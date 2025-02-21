@@ -1,5 +1,12 @@
 # Animations
 
+## Information
+
+- **Directory**: `animations/`.
+- **Description**: animated PNGs for loading and background processing.
+
+## Icons
+
 | Identifier                              |
 | --------------------------------------- |
 | aptdaemon-action-cleaning-up            |

@@ -1,5 +1,12 @@
 # Panel
 
+## Information
+
+- **Directory**: `panel/`.
+- **Description**: icons for panel elements like system trays and widgets.
+
+## Icons
+
 | Identifier                                  |
 | ------------------------------------------- |
 | 1password-panel-locked                      |

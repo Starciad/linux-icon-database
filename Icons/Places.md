@@ -1,5 +1,12 @@
 # Places
 
+## Information
+
+- **Directory**: `places/`.
+- **Description**: icons for locations, both local and remote (e.g., folders, trash).
+
+## Icons
+
 | Identifier                  |
 | --------------------------- |
 | bookmark-missing            |

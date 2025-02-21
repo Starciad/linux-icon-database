@@ -1,5 +1,12 @@
 # Applications
 
+## Information
+
+- **Directory**: `apps/`.
+- **Description**: icons representing applications in menus and task lists. Use generic icons for system apps and branded icons for others.
+
+## Icons
+
 | Identifier                                      |
 | ----------------------------------------------- |
 | 010editor                                       |

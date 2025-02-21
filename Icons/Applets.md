@@ -1,5 +1,12 @@
 # Applets
 
+## Information
+
+- **Directory**: `applets/`.
+- **Description**: icons for small utility applications running in the panel.
+
+## Icons
+
 | Identifier                                |
 | ----------------------------------------- |
 | car                                       |

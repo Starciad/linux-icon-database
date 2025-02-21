@@ -1,5 +1,12 @@
 # Emblems
 
+## Information
+
+- **Directory**: `emblems/`.
+- **Description**: icons for file properties and tags in file managers (e.g., "read-only", "photos").
+
+## Icons
+
 | Identifier                      |
 | ------------------------------- |
 | cs-xlet-running                 |

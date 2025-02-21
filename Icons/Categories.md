@@ -1,5 +1,12 @@
 # Categories
 
+## Information
+
+- **Directory**: `categories/`.
+- **Description**: icons for categorizing applications, preferences, and settings.
+
+## Icons
+
 | Identifier                                |
 | ----------------------------------------- |
 | application-community                     |

@@ -1,5 +1,12 @@
 # Preferences
 
+## Information
+
+- **Directory**: `preferences/`.
+- **Description**: icons for user settings and customization options.
+
+## Icons
+
 | Identifier                                      |
 | ----------------------------------------------- |
 | device-notifier                                 |

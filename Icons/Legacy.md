@@ -1,5 +1,12 @@
 # Legacy
 
+## Information
+
+- **Directory**: `legacy/`.
+- **Description**: icons for deprecated or backward-compatible resources.
+
+## Icons
+
 | Identifier                             |
 | -------------------------------------- |
 | ac-adapter                             |
