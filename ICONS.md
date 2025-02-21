@@ -1,4 +1,4 @@
-# Listings
+# Icons
 
 Icons in Linux environments are divided categorically through a directory convention that can be found below:
 
@@ -33,22 +33,22 @@ Each of these categories has a large handful of icons, varying in quantity and u
 
 Below you will find anchor links that will take you to the listings corresponding to those respective categories.
 
-- [Actions](./Categories/Actions.md)
-- [Animations](./Categories/Animations.md)
-- [Applets](./Categories/Applets.md)
-- [Applications](./Categories/Applications.md)
-- [Categories](./Categories/Categories.md)
-- [Devices](./Categories/Devices.md)
-- [Emblems](./Categories/Emblems.md)
-- [Emotes](./Categories/Emotes.md)
-- [Legacy](./Categories/Legacy.md)
-- [MimeTypes](./Categories/MimeTypes.md)
-- [Notifications](./Categories/Notifications.md)
-- [Panel](./Categories/Panel.md)
-- [Places](./Categories/Places.md)
-- [Preferences](./Categories/Preferences.md)
-- [Status](./Categories/Status.md)
-- [Stock](./Categories/Stock.md)
+- [Actions](./Icons/Actions.md)
+- [Animations](./Icons/Animations.md)
+- [Applets](./Icons/Applets.md)
+- [Applications](./Icons/Applications.md)
+- [Categories](./Icons/Categories.md)
+- [Devices](./Icons/Devices.md)
+- [Emblems](./Icons/Emblems.md)
+- [Emotes](./Icons/Emotes.md)
+- [Legacy](./Icons/Legacy.md)
+- [MimeTypes](./Icons/MimeTypes.md)
+- [Notifications](./Icons/Notifications.md)
+- [Panel](./Icons/Panel.md)
+- [Places](./Icons/Places.md)
+- [Preferences](./Icons/Preferences.md)
+- [Status](./Icons/Status.md)
+- [Stock](./Icons/Stock.md)
 
 ## See Also
 

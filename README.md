@@ -26,15 +26,14 @@ The list can be used for various purposes, such as:
 - Creating interfaces that follow Linux environment standards;
 - Identifying the most common icons in Linux-based systems.
 
-The main listing file can be found at:
+## Content
+
+- [Icons](./ICONS.md): article containing general information about icons, including reference to identifier listings.
+- [Creating a Custom Icon Pack for Linux](./CREATING-A-CUSTOM-ICON-PACK.md): A small utility guide that shows in a simple way how to create a custom icon pack.
 
 ## Contribution
 
-If you would like to contribute to this project, you can:
-
-- Suggest improvements or updates to the listing.
-- Create scripts to facilitate icon extraction and organization.
-- Report missing icons or inconsistencies.
+If you wish to contribute to the project, see the document [CONTRIBUTING.md](./CONTRIBUTING.md) present in the repository.
 
 ## License
 
