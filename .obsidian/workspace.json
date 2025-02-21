@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "01a65070ba1badf4",
+        "id": "945f12b451393c20",
         "type": "tabs",
         "children": [
           {
-            "id": "d82a67d16b5d5699",
+            "id": "3845ca4c9cfb8e6d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,7 +17,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "LISTINGS"
             }
@@ -170,10 +168,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d82a67d16b5d5699",
+  "active": "b95277e65ce80aaf",
   "lastOpenFiles": [
-    "Databases/Actions.md",
     "LISTINGS.md",
+    "Categories/Stock.md",
+    "Categories/Status.md",
+    "Categories/Preferences.md",
+    "Categories/Places.md",
+    "Categories/Panel.md",
+    "Categories/Notifications.md",
+    "Categories/MimeTypes.md",
+    "Categories/Legacy.md",
+    "Categories/Emotes.md",
+    "Categories/Emblems.md",
+    "Categories/Devices.md",
+    "Categories/Categories.md",
+    "Categories/Applications.md",
+    "Categories/Applets.md",
+    "Categories/Animations.md",
+    "Categories/Actions.md",
+    "Databases/Actions.md",
     "Databases/Stock.md",
     "Databases/Status.md",
     "Databases/Preferences.md",
@@ -182,15 +196,6 @@
     "Databases/Notifications.md",
     "Databases/MimeTypes.md",
     "Databases/Legacy.md",
-    "Databases/Emotes.md",
-    "Databases/Emblems.md",
-    "Databases/Devices.md",
-    "Databases/Categories.md",
-    "Databases/Applications.md",
-    "Databases/Applets.md",
-    "Databases/Animations.md",
-    "README.md",
-    "Sem título.md",
     "Databases"
   ]
 }
