@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "6c54ad299fb36118",
+    "id": "afcde2f4bbcb79af",
     "type": "split",
     "children": [
       {
-        "id": "945f12b451393c20",
+        "id": "56e165a60d7dbdb4",
         "type": "tabs",
         "children": [
           {
-            "id": "3845ca4c9cfb8e6d",
+            "id": "a4e140085609b08f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LISTINGS.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LISTINGS"
+              "title": "Nova aba"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1d7ce0e26ceda25f",
+    "id": "9d419078ddcfa982",
     "type": "split",
     "children": [
       {
-        "id": "8be8704787bac8fa",
+        "id": "847fa03255741584",
         "type": "tabs",
         "children": [
           {
-            "id": "b95277e65ce80aaf",
+            "id": "0d33f568c1e23bbd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "5535fed6b1c632c2",
+            "id": "ff13afaf36a7864d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "83f88b61be5454a0",
+            "id": "d3660e957bb7025b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "62e8cfe2b02479f0",
+    "id": "0d1ade7e3bd7785f",
     "type": "split",
     "children": [
       {
-        "id": "a3816fb61f06b4ca",
+        "id": "b7d8b4a02cd844e0",
         "type": "tabs",
         "children": [
           {
-            "id": "1dddd6feba92784f",
+            "id": "ba1454e8aa9397cb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LISTINGS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para LISTINGS"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "5b67569b23e15d73",
+            "id": "ed2b1b9b5475e1a9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LISTINGS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para LISTINGS"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "4041f0e538154cda",
+            "id": "a35354ff39791a80",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +131,17 @@
             }
           },
           {
-            "id": "2167d605a9a26d4c",
+            "id": "ca05d183c0aefdc0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "LISTINGS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de LISTINGS"
+              "title": "Sumário"
             }
           }
         ]
@@ -168,34 +161,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b95277e65ce80aaf",
+  "active": "a4e140085609b08f",
   "lastOpenFiles": [
-    "LISTINGS.md",
-    "Categories/Stock.md",
-    "Categories/Status.md",
     "Categories/Preferences.md",
-    "Categories/Places.md",
-    "Categories/Panel.md",
-    "Categories/Notifications.md",
-    "Categories/MimeTypes.md",
-    "Categories/Legacy.md",
-    "Categories/Emotes.md",
-    "Categories/Emblems.md",
-    "Categories/Devices.md",
-    "Categories/Categories.md",
-    "Categories/Applications.md",
+    "Categories/Status.md",
+    "Categories/Stock.md",
     "Categories/Applets.md",
-    "Categories/Animations.md",
-    "Categories/Actions.md",
-    "Databases/Actions.md",
-    "Databases/Stock.md",
-    "Databases/Status.md",
-    "Databases/Preferences.md",
-    "Databases/Places.md",
-    "Databases/Panel.md",
-    "Databases/Notifications.md",
-    "Databases/MimeTypes.md",
-    "Databases/Legacy.md",
-    "Databases"
+    "Categories/Actions.md"
   ]
 }

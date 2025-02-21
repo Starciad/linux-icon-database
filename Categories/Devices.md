@@ -1,229 +1,229 @@
 # Devices
 
-| Identifier                         | Preview |
-| ---------------------------------- | ------- |
-| ac-adapter                         |         |
-| ac-adapter                         |         |
-| audio-card                         |         |
-| audio-card                         |         |
-| audio-headphones                   |         |
-| audio-headphones                   |         |
-| audio-headset                      |         |
-| audio-headset                      |         |
-| audio-input-microphone             |         |
-| audio-input-microphone             |         |
-| audio-microphone                   |         |
-| audio-radio                        |         |
-| audio-speaker-center-back-testing  |         |
-| audio-speaker-center-back          |         |
-| audio-speaker-center-testing       |         |
-| audio-speaker-center               |         |
-| audio-speaker-left-back-testing    |         |
-| audio-speaker-left-back            |         |
-| audio-speaker-left-side-testing    |         |
-| audio-speaker-left-side            |         |
-| audio-speaker-left-testing         |         |
-| audio-speaker-left                 |         |
-| audio-speaker-mono-testing         |         |
-| audio-speaker-mono                 |         |
-| audio-speaker-right-back-testing   |         |
-| audio-speaker-right-back           |         |
-| audio-speaker-right-side-testing   |         |
-| audio-speaker-right-side           |         |
-| audio-speaker-right-testing        |         |
-| audio-speaker-right                |         |
-| audio-speakers                     |         |
-| audio-speakers                     |         |
-| audio-subwoofer-testing            |         |
-| audio-subwoofer                    |         |
-| audiocard                          |         |
-| auth-sim                           |         |
-| battery-caution-charging           |         |
-| battery-caution                    |         |
-| battery-empty-charging             |         |
-| battery-empty                      |         |
-| battery-full-charging              |         |
-| battery-good-charging              |         |
-| battery-good                       |         |
-| battery-low-charging               |         |
-| battery-low                        |         |
-| battery-missing                    |         |
-| battery-ups                        |         |
-| battery                            |         |
-| battery                            |         |
-| blockdevice                        |         |
-| blueman-device                     |         |
-| bluetooth                          |         |
-| camera-photo                       |         |
-| camera-photo                       |         |
-| camera-video                       |         |
-| camera-video                       |         |
-| camera-web                         |         |
-| camera-web                         |         |
-| camera                             |         |
-| colorimeter-colorhug               |         |
-| computer-apple-ipad                |         |
-| computer-laptop                    |         |
-| computer                           |         |
-| computer                           |         |
-| deja-dup-cloud                     |         |
-| device_serial                      |         |
-| display-projector                  |         |
-| display                            |         |
-| drive-cdrom                        |         |
-| drive-harddisk-encrypted           |         |
-| drive-harddisk-ieee1394            |         |
-| drive-harddisk-root                |         |
-| drive-harddisk-solidstate          |         |
-| drive-harddisk-system              |         |
-| drive-harddisk-usb                 |         |
-| drive-harddisk-usb                 |         |
-| drive-harddisk                     |         |
-| drive-harddisk                     |         |
-| drive-multidisk-alt                |         |
-| drive-multidisk-alt2               |         |
-| drive-multidisk                    |         |
-| drive-multidisk                    |         |
-| drive-multipartition               |         |
-| drive-optical                      |         |
-| drive-removable-media-usb          |         |
-| drive-removable-media-usb          |         |
-| drive-removable-media              |         |
-| drive-removable-media              |         |
-| gnome-dev-disc-dvdr-plus           |         |
-| gnome-dev-disc-dvdr                |         |
-| gnome-dev-harddisk-1394            |         |
-| gnome-dev-harddisk-usb             |         |
-| gnome-dev-media-cf                 |         |
-| gnome-dev-media-ms                 |         |
-| gnome-dev-media-sdmmc              |         |
-| gnome-dev-media-sm                 |         |
-| gnome-dev-memory                   |         |
-| gnome-dev-network                  |         |
-| gnome-dev-pcmcia                   |         |
-| gnome-dev-printer-network          |         |
-| gnome-dev-printer-new              |         |
-| gnome-dev-zipdisk                  |         |
-| harddrive                          |         |
-| headphones                         |         |
-| hifi                               |         |
-| i-network-printer                  |         |
-| input-audio-microphone             |         |
-| input-dialpad                      |         |
-| input-dialpad                      |         |
-| input-gaming                       |         |
-| input-gaming                       |         |
-| input-keyboard-virtual             |         |
-| input-keyboard                     |         |
-| input-keyboard                     |         |
-| input-mouse                        |         |
-| input-mouse                        |         |
-| input-tablet                       |         |
-| input-tablet                       |         |
-| input-touchpad                     |         |
-| input-touchpad                     |         |
-| keyboard-caps-disabled             |         |
-| keyboard-caps-enabled              |         |
-| keyboard-caps-locked               |         |
-| keyboard-enter                     |         |
-| keyboard-spacebar                  |         |
-| keyboard                           |         |
-| knemo-monitor-error                |         |
-| knemo-monitor-idle                 |         |
-| knemo-monitor-offline              |         |
-| knemo-monitor-receive              |         |
-| knemo-monitor-transmit             |         |
-| media-cdr                          |         |
-| media-cdrom-audio                  |         |
-| media-cdrw                         |         |
-| media-dvd                          |         |
-| media-flash-cf                     |         |
-| media-flash-memory-stick           |         |
-| media-flash-ms                     |         |
-| media-flash-sd-mmc                 |         |
-| media-flash                        |         |
-| media-floppy                       |         |
-| media-floppy                       |         |
-| media-jaz                          |         |
-| media-memory-sd                    |         |
-| media-memory-sm                    |         |
-| media-optical-audio                |         |
-| media-optical-bd                   |         |
-| media-optical-cd-audio             |         |
-| media-optical-data                 |         |
-| media-optical-dvd                  |         |
-| media-optical-mixed-cd             |         |
-| media-optical-video                |         |
-| media-optical                      |         |
-| media-optical                      |         |
-| media-removable                    |         |
-| media-tape                         |         |
-| media-tape                         |         |
-| media-zip                          |         |
-| media-zip                          |         |
-| modem                              |         |
-| mouse                              |         |
-| multimedia-player-apple-ipod-touch |         |
-| multimedia-player-ipod-mini-blue   |         |
-| multimedia-player                  |         |
-| multimedia-player                  |         |
-| network-bluetooth                  |         |
-| network-card                       |         |
-| network-modem                      |         |
-| network-rj11-female                |         |
-| network-rj45-female                |         |
-| network-server                     |         |
-| network-vpn                        |         |
-| network-vpn                        |         |
-| network-wired-activated            |         |
-| network-wired-disconnected         |         |
-| network-wired-unavailable          |         |
-| network-wired                      |         |
-| network-wireless-connected-00      |         |
-| network-wireless-connected-100     |         |
-| network-wireless-connected-25      |         |
-| network-wireless-connected-50      |         |
-| network-wireless-connected-75      |         |
-| network-wireless-disconnected      |         |
-| network-wireless-hotspot           |         |
-| network-wireless                   |         |
-| network-wireless                   |         |
-| network-workgroup                  |         |
-| nm-device-wired                    |         |
-| nm-device-wireless                 |         |
-| pda                                |         |
-| pda                                |         |
-| phone-apple-iphone                 |         |
-| phone-apple-iphone4s-black         |         |
-| phone-apple-iphone4s-white         |         |
-| phone-apple-iphone5-black          |         |
-| phone-apple-iphone5-white          |         |
-| phone-apple-iphone6-black          |         |
-| phone-apple-iphone6-white          |         |
-| phone-motorola-droid               |         |
-| phone-motorola-motog2-black        |         |
-| phone-motorola-motog2-white        |         |
-| phone-samsung-galaxys4-black       |         |
-| phone-samsung-galaxys4-blue        |         |
-| phone-samsung-galaxys4-red         |         |
-| phone-samsung-galaxys4-white       |         |
-| phone                              |         |
-| phone                              |         |
-| printer-network                    |         |
-| printer                            |         |
-| printer                            |         |
-| printer1                           |         |
-| processor                          |         |
-| scanner                            |         |
-| scanner                            |         |
-| smartphone                         |         |
-| tablet                             |         |
-| tv                                 |         |
-| tv                                 |         |
-| uav-quadcopter                     |         |
-| uninterruptible-power-supply       |         |
-| uninterruptible-power-supply       |         |
-| video-display                      |         |
-| video-display                      |         |
-| video-television                   |         |
-| wiimotedev                         |         |
+| Identifier                         |
+| ---------------------------------- |
+| ac-adapter                         |
+| ac-adapter                         |
+| audio-card                         |
+| audio-card                         |
+| audio-headphones                   |
+| audio-headphones                   |
+| audio-headset                      |
+| audio-headset                      |
+| audio-input-microphone             |
+| audio-input-microphone             |
+| audio-microphone                   |
+| audio-radio                        |
+| audio-speaker-center-back-testing  |
+| audio-speaker-center-back          |
+| audio-speaker-center-testing       |
+| audio-speaker-center               |
+| audio-speaker-left-back-testing    |
+| audio-speaker-left-back            |
+| audio-speaker-left-side-testing    |
+| audio-speaker-left-side            |
+| audio-speaker-left-testing         |
+| audio-speaker-left                 |
+| audio-speaker-mono-testing         |
+| audio-speaker-mono                 |
+| audio-speaker-right-back-testing   |
+| audio-speaker-right-back           |
+| audio-speaker-right-side-testing   |
+| audio-speaker-right-side           |
+| audio-speaker-right-testing        |
+| audio-speaker-right                |
+| audio-speakers                     |
+| audio-speakers                     |
+| audio-subwoofer-testing            |
+| audio-subwoofer                    |
+| audiocard                          |
+| auth-sim                           |
+| battery-caution-charging           |
+| battery-caution                    |
+| battery-empty-charging             |
+| battery-empty                      |
+| battery-full-charging              |
+| battery-good-charging              |
+| battery-good                       |
+| battery-low-charging               |
+| battery-low                        |
+| battery-missing                    |
+| battery-ups                        |
+| battery                            |
+| battery                            |
+| blockdevice                        |
+| blueman-device                     |
+| bluetooth                          |
+| camera-photo                       |
+| camera-photo                       |
+| camera-video                       |
+| camera-video                       |
+| camera-web                         |
+| camera-web                         |
+| camera                             |
+| colorimeter-colorhug               |
+| computer-apple-ipad                |
+| computer-laptop                    |
+| computer                           |
+| computer                           |
+| deja-dup-cloud                     |
+| device_serial                      |
+| display-projector                  |
+| display                            |
+| drive-cdrom                        |
+| drive-harddisk-encrypted           |
+| drive-harddisk-ieee1394            |
+| drive-harddisk-root                |
+| drive-harddisk-solidstate          |
+| drive-harddisk-system              |
+| drive-harddisk-usb                 |
+| drive-harddisk-usb                 |
+| drive-harddisk                     |
+| drive-harddisk                     |
+| drive-multidisk-alt                |
+| drive-multidisk-alt2               |
+| drive-multidisk                    |
+| drive-multidisk                    |
+| drive-multipartition               |
+| drive-optical                      |
+| drive-removable-media-usb          |
+| drive-removable-media-usb          |
+| drive-removable-media              |
+| drive-removable-media              |
+| gnome-dev-disc-dvdr-plus           |
+| gnome-dev-disc-dvdr                |
+| gnome-dev-harddisk-1394            |
+| gnome-dev-harddisk-usb             |
+| gnome-dev-media-cf                 |
+| gnome-dev-media-ms                 |
+| gnome-dev-media-sdmmc              |
+| gnome-dev-media-sm                 |
+| gnome-dev-memory                   |
+| gnome-dev-network                  |
+| gnome-dev-pcmcia                   |
+| gnome-dev-printer-network          |
+| gnome-dev-printer-new              |
+| gnome-dev-zipdisk                  |
+| harddrive                          |
+| headphones                         |
+| hifi                               |
+| i-network-printer                  |
+| input-audio-microphone             |
+| input-dialpad                      |
+| input-dialpad                      |
+| input-gaming                       |
+| input-gaming                       |
+| input-keyboard-virtual             |
+| input-keyboard                     |
+| input-keyboard                     |
+| input-mouse                        |
+| input-mouse                        |
+| input-tablet                       |
+| input-tablet                       |
+| input-touchpad                     |
+| input-touchpad                     |
+| keyboard-caps-disabled             |
+| keyboard-caps-enabled              |
+| keyboard-caps-locked               |
+| keyboard-enter                     |
+| keyboard-spacebar                  |
+| keyboard                           |
+| knemo-monitor-error                |
+| knemo-monitor-idle                 |
+| knemo-monitor-offline              |
+| knemo-monitor-receive              |
+| knemo-monitor-transmit             |
+| media-cdr                          |
+| media-cdrom-audio                  |
+| media-cdrw                         |
+| media-dvd                          |
+| media-flash-cf                     |
+| media-flash-memory-stick           |
+| media-flash-ms                     |
+| media-flash-sd-mmc                 |
+| media-flash                        |
+| media-floppy                       |
+| media-floppy                       |
+| media-jaz                          |
+| media-memory-sd                    |
+| media-memory-sm                    |
+| media-optical-audio                |
+| media-optical-bd                   |
+| media-optical-cd-audio             |
+| media-optical-data                 |
+| media-optical-dvd                  |
+| media-optical-mixed-cd             |
+| media-optical-video                |
+| media-optical                      |
+| media-optical                      |
+| media-removable                    |
+| media-tape                         |
+| media-tape                         |
+| media-zip                          |
+| media-zip                          |
+| modem                              |
+| mouse                              |
+| multimedia-player-apple-ipod-touch |
+| multimedia-player-ipod-mini-blue   |
+| multimedia-player                  |
+| multimedia-player                  |
+| network-bluetooth                  |
+| network-card                       |
+| network-modem                      |
+| network-rj11-female                |
+| network-rj45-female                |
+| network-server                     |
+| network-vpn                        |
+| network-vpn                        |
+| network-wired-activated            |
+| network-wired-disconnected         |
+| network-wired-unavailable          |
+| network-wired                      |
+| network-wireless-connected-00      |
+| network-wireless-connected-100     |
+| network-wireless-connected-25      |
+| network-wireless-connected-50      |
+| network-wireless-connected-75      |
+| network-wireless-disconnected      |
+| network-wireless-hotspot           |
+| network-wireless                   |
+| network-wireless                   |
+| network-workgroup                  |
+| nm-device-wired                    |
+| nm-device-wireless                 |
+| pda                                |
+| pda                                |
+| phone-apple-iphone                 |
+| phone-apple-iphone4s-black         |
+| phone-apple-iphone4s-white         |
+| phone-apple-iphone5-black          |
+| phone-apple-iphone5-white          |
+| phone-apple-iphone6-black          |
+| phone-apple-iphone6-white          |
+| phone-motorola-droid               |
+| phone-motorola-motog2-black        |
+| phone-motorola-motog2-white        |
+| phone-samsung-galaxys4-black       |
+| phone-samsung-galaxys4-blue        |
+| phone-samsung-galaxys4-red         |
+| phone-samsung-galaxys4-white       |
+| phone                              |
+| phone                              |
+| printer-network                    |
+| printer                            |
+| printer                            |
+| printer1                           |
+| processor                          |
+| scanner                            |
+| scanner                            |
+| smartphone                         |
+| tablet                             |
+| tv                                 |
+| tv                                 |
+| uav-quadcopter                     |
+| uninterruptible-power-supply       |
+| uninterruptible-power-supply       |
+| video-display                      |
+| video-display                      |
+| video-television                   |
+| wiimotedev                         |
