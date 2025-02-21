@@ -29,7 +29,7 @@ In addition to these standard categories above, you can also find the following:
 
 Each of these categories has a large handful of icons, varying in quantity and use.
 
-## Anchors
+## Content
 
 Below you will find anchor links that will take you to the listings corresponding to those respective categories.
 
@@ -49,6 +49,10 @@ Below you will find anchor links that will take you to the listings correspondin
 - [Preferences](./Icons/Preferences.md)
 - [Status](./Icons/Status.md)
 - [Stock](./Icons/Stock.md)
+
+## Images
+
+In this repository, you will only find the nominal identifiers of the icon files. If you want to obtain the visual representations, download the latest package from the [Releases](https://github.com/Starciad/linux-icon-database/releases) page. The images are stored separately to prevent the repository from significantly increasing in size and to avoid file clutter. This helps with management and separation of functionalities. Most of the icons can be found in SVG and PNG formats.
 
 ## See Also
 
