@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "6c54ad299fb36118",
+    "type": "split",
+    "children": [
+      {
+        "id": "01a65070ba1badf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d82a67d16b5d5699",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LISTINGS.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "LISTINGS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d7ce0e26ceda25f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8be8704787bac8fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b95277e65ce80aaf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "5535fed6b1c632c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "83f88b61be5454a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62e8cfe2b02479f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3816fb61f06b4ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dddd6feba92784f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LISTINGS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para LISTINGS"
+            }
+          },
+          {
+            "id": "5b67569b23e15d73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LISTINGS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para LISTINGS"
+            }
+          },
+          {
+            "id": "4041f0e538154cda",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2167d605a9a26d4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LISTINGS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de LISTINGS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "d82a67d16b5d5699",
+  "lastOpenFiles": [
+    "Databases/Actions.md",
+    "LISTINGS.md",
+    "Databases/Stock.md",
+    "Databases/Status.md",
+    "Databases/Preferences.md",
+    "Databases/Places.md",
+    "Databases/Panel.md",
+    "Databases/Notifications.md",
+    "Databases/MimeTypes.md",
+    "Databases/Legacy.md",
+    "Databases/Emotes.md",
+    "Databases/Emblems.md",
+    "Databases/Devices.md",
+    "Databases/Categories.md",
+    "Databases/Applications.md",
+    "Databases/Applets.md",
+    "Databases/Animations.md",
+    "README.md",
+    "Sem título.md",
+    "Databases"
+  ]
+}
