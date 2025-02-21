@@ -37,7 +37,7 @@ If you wish to contribute to the project, see the document [CONTRIBUTING.md](./C
 
 ## License
 
-This repository is licensed under the **MIT License**, allowing free use, modification, and distribution.
+This repository is licensed under the **MIT License**, allowing free use, modification, and distribution. For more details, see the [LICENSE.txt](./LICENSE.txt) file present in the repository.
 
 ## Conclusion
 
