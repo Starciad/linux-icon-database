@@ -90,7 +90,6 @@
 | dialog-fill-and-stroke                 |
 | dialog-info                            |
 | dialog-information                     |
-| dialog-information                     |
 | dialog-layers                          |
 | dialog-no                              |
 | dialog-object-properties               |
@@ -123,8 +122,6 @@
 | document-export-ocal                   |
 | document-export-table                  |
 | document-export                        |
-| document-export                        |
-| document-import                        |
 | document-import                        |
 | document-new                           |
 | document-open-recent                   |
@@ -135,7 +132,6 @@
 | document-properties                    |
 | document-revert-rtl                    |
 | document-revert                        |
-| document-save-as                       |
 | document-save-as                       |
 | document-save                          |
 | document-send                          |
@@ -159,7 +155,6 @@
 | edit-add                               |
 | edit-clear-all                         |
 | edit-clear-rtl                         |
-| edit-clear                             |
 | edit-clear                             |
 | edit-clone-unlink                      |
 | edit-clone                             |
@@ -308,31 +303,23 @@
 | input-tablet                           |
 | input-touchpad                         |
 | insert-image                           |
-| insert-image                           |
 | insert-link                            |
 | insert-object                          |
 | insert-text                            |
 | layer-rename                           |
 | list-add                               |
-| list-add                               |
 | list-remove                            |
-| list-remove                            |
-| mail-archive                           |
 | mail-archive                           |
 | mail-attachment                        |
 | mail-drafts                            |
 | mail-forward                           |
 | mail-mailbox                           |
 | mail-mark-important                    |
-| mail-mark-important                    |
 | mail-mark-junk                         |
 | mail-mark-notjunk                      |
 | mail-mark-read                         |
-| mail-mark-read                         |
-| mail-mark-unread                       |
 | mail-mark-unread                       |
 | mail-message-new                       |
-| mail-read                              |
 | mail-read                              |
 | mail-receive                           |
 | mail-replied                           |
@@ -343,7 +330,6 @@
 | mail-signed-verified                   |
 | mail-signed                            |
 | mail-spam                              |
-| mail-unread                            |
 | mail-unread                            |
 | mark-location                          |
 | media-eject                            |
@@ -382,14 +368,10 @@
 | network-wireless                       |
 | non-starred                            |
 | object-flip-horizontal                 |
-| object-flip-horizontal                 |
-| object-flip-vertical                   |
 | object-flip-vertical                   |
 | object-group                           |
 | object-locked                          |
 | object-rotate-left                     |
-| object-rotate-left                     |
-| object-rotate-right                    |
 | object-rotate-right                    |
 | object-ungroup                         |
 | object-unlocked                        |
@@ -427,7 +409,6 @@
 | preferences-system                     |
 | printer-error                          |
 | printer-printing                       |
-| process-stop                           |
 | process-stop                           |
 | projectgrep                            |
 | reload                                 |
@@ -493,8 +474,6 @@
 | system-lock-screen                     |
 | system-log-out                         |
 | system-run                             |
-| system-run                             |
-| system-search                          |
 | system-search                          |
 | system-shutdown                        |
 | system-software-install                |
@@ -535,7 +514,6 @@
 | view-fullscreen                        |
 | view-history                           |
 | view-refresh                           |
-| view-refresh                           |
 | view-restore                           |
 | view-sort-ascending                    |
 | view-sort-descending                   |
@@ -544,7 +522,6 @@
 | viewmagfit                             |
 | view_fit_to_page                       |
 | web-browser                            |
-| window-close                           |
 | window-close                           |
 | window-new                             |
 | x-office-calendar                      |
@@ -555,7 +532,6 @@
 | zoom-double-size                       |
 | zoom-draw                              |
 | zoom-fit-best                          |
-| zoom-fit-best                          |
 | zoom-fit-drawing                       |
 | zoom-fit-height                        |
 | zoom-fit-page                          |
@@ -565,7 +541,6 @@
 | zoom-half-size                         |
 | zoom-in                                |
 | zoom-next                              |
-| zoom-original                          |
 | zoom-original                          |
 | zoom-out                               |
 | zoom-previous                          |

@@ -36,8 +36,6 @@
 | nm-vpn-connecting12                     |
 | nm-vpn-connecting13                     |
 | process-idle                            |
-| process-idle                            |
-| process-working                         |
 | process-working                         |
 | status-nm-stage01-connecting01-symbolic |
 | status-nm-stage01-connecting02-symbolic |
