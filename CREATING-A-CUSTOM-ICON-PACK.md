@@ -81,14 +81,7 @@ The `index.theme` file is essential for your icon theme. It serves as an index t
 Name=YourThemeName
 Comment=Description of your icon theme
 Example=folder
-
-[Directories]
-16x16/actions
-16x16/apps
-16x16/devices
-16x16/places
-16x16/mimetypes
-16x16/status
+Directories=16x16/actions,16x16/apps,16x16/devices,16x16/places,16x16/mimetypes,16x16/status
 
 # Repeat for other sizes and categories
 
@@ -111,8 +104,7 @@ Type=Fixed
   - `Name`: The name of the theme.
   - `Comment`: A brief description.
   - `Example`: A representative icon name from the theme.
-
-- `[Directories]`: List of directories included in the theme.
+  - `Directories`: List of directories included in the theme.
 
 - `[16x16/actions]`: Specific settings for each directory.
   - `Size`: The size of the icons in the directory.
